@@ -11,3 +11,6 @@
 - Uso de variáveis CSS e pseudo-classe :root;
 - Uso de positions.
 
+### Acesso o projeto: https://kellykilmadesousa.github.io/PageAndroid-HTML5-CSS3/
+
+![FireShot Capture 006 - Como surgiu o mascote do Android_ - kellykilmadesousa github io](https://github.com/kellykilmadesousa/PageAndroid-HTML5-CSS3/assets/107444658/f6d321ee-5c79-477f-a5ad-0e6f99ea9bcf)
