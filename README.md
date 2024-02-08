@@ -13,4 +13,5 @@
 
 ### Acesso o projeto: https://kellykilmadesousa.github.io/PageAndroid-HTML5-CSS3/
 
-![FireShot Capture 006 - Como surgiu o mascote do Android_ - kellykilmadesousa github io](https://github.com/kellykilmadesousa/PageAndroid-HTML5-CSS3/assets/107444658/f6d321ee-5c79-477f-a5ad-0e6f99ea9bcf)
+![FireShot Capture 006 - Como surgiu o mascote do Android_ - kellykilmadesousa github io](https://github.com/kellykilmadesousa/PageAndroid-HTML5-CSS3/assets/107444658/8a308570-f5e3-4553-9c2d-8ddb9e337768)
+
