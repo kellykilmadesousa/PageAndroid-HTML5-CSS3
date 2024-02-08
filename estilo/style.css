@@ -69,14 +69,14 @@ header > p {
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
   max-width: 600px;
   margin: auto;
-  margin-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 nav {
   background-color: var(--cor4);
   padding: 15px;
   box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
-  position: fixed; /*position, width, top e z-index foram adicionadas para colocar a nav fixadas na parte superior e com o comportamento do header*/
+  position: fixed; /* position, width, top e z-index foram adicionadas para colocar a nav fixadas na parte superior e com o comportamento do header */
   width: 100%;
   top: 0;
   z-index: 1000;
@@ -110,7 +110,7 @@ main {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.447);
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  margin-top: 200px;  /* margin-top: 200px; - caso use sticky n precisa adicionar isso aqui*/
+  margin-top: 190px;  /* margin-top: 200px; - caso use sticky n precisa adicionar isso aqui*/
 }
 
 main h1 {
